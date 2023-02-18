@@ -5,33 +5,10 @@ availability, and make reservations using Bike ID. The system will also include 
 experience for the client. The user interface will be designed to be intuitive and user-friendly, with an emphasis on responsive design and accessibility. 
 With this application, bike rental companies will have a modern and efficient tool to manage their operations and serve their customers.
 
-
 The hierachy of the source code folder:
-bicycle-loan-system/
-├── frontend/
-│   ├── public/
-│   │   ├── assets/
-│   │   └── index.html
-│   └── src/
-│       ├── components/
-│       ├── pages/
-│       ├── services/
-│       ├── App.js
-│       └── index.js
-├── backend/
-│   ├── controllers/
-│   ├── models/
-│   ├── routes/
-│   ├── app.js
-│   ├── config/
-│   │   ├── db.js
-│   │   ├── env.js
-│   │   ├── server.js
-│   └── index.js
 
-├── .gitignore
-├── package.json
-└── README.md 
+![image git](https://user-images.githubusercontent.com/108094139/219853864-bd063257-b632-4f22-963a-d296cefee5a7.PNG)
+
 
 
 The files that the client folder contains in a React.js bike rental application in a frontend React.js application include:
