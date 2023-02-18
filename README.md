@@ -1,9 +1,4 @@
-The proposed bicycle loan system is designed to provide a seamless user experience for renting bikes. This application is developed using React,
-a popular frontend library, and Node.js, a powerful backend platform. The application utilizes MySQL, a robust relational database management 
-system, to store and manage user data and rental history. The application will allow users to browse and select bikes based on location and 
-availability, and make reservations using Bike ID. The system will also include Unique ID to every user which features to ensure a smooth rental 
-experience for the client. The user interface will be designed to be intuitive and user-friendly, with an emphasis on responsive design and accessibility. 
-With this application, bike rental companies will have a modern and efficient tool to manage their operations and serve their customers.
+The proposed bicycle loan system is designed to provide a seamless user experience for renting bikes. This application is developed using React, a popular frontend library, and Node.js, a powerful backend platform. The application utilizes MySQL, a robust relational database management system, to store and manage user data and rental history. The application will allow users to browse and select bikes based on location and availability, and make reservations using Bike ID. The system will also include Unique ID to every user which features to ensure a smooth rental experience for the client. The user interface will be designed to be intuitive and user-friendly, with an emphasis on responsive design and accessibility. With this application, bike rental companies will have a modern and efficient tool to manage their operations and serve their customers.
 
 The hierachy of the source code folder:
 
