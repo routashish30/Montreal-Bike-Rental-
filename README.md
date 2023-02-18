@@ -20,7 +20,7 @@ The files that the client folder contains in a React.js bike rental application 
 
 
 
-The files that the server folder contains in a Node.js bike rental application in a backend Node.js application include:
+The files that the server folder contains in a Node.js bike rental application in a backend Node.js application include:-
 
        •	app.js or index.js: This is the main entry point of the application that initializes the server and routes incoming requests to the appropriate handlers.
        •	package.json: This file contains metadata about the Node.js application, including its dependencies and other important information.
